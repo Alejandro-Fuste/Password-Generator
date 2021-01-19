@@ -6,7 +6,7 @@
 
 ## Description 
 
-This application generates a random password based on user-selected criteria. The app will run in the browser and feature dynamically updated <strong>HTML</strong> and <strong>CSS</strong> powered by <strong>Javascript</strong>. It also features a clean and polished user responsive interface. 
+This application generates a random password based on user-selected criteria. The app will run in the browser and feature dynamically updated <strong>HTML</strong> and <strong>CSS</strong> powered by <strong>Javascript</strong>. It also features a clean and polished user responsive interface. Click on this [link](https://alejandro-fuste.github.io/Password-Generator/) to view the deployed site.
 
 ## User Story
 
