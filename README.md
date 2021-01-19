@@ -1,23 +1,69 @@
-# Password-Generator
+# Password Generator [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-# Password Generator Homework
+<table><tr><td>
+<img src="./images/finishedGif.gif" alt="finished gif" style="border-radius:16px" width="838" height="380"/>
+</table></tr></td>
 
-## Description
+## Description 
 
-The goal is of this homework assignment is to generate a random password based on user-selected criteria. 
-This app will run in the browser and feature dynamically updated HTML and CSS powered by your Javascript code. 
+This application generates a random password based on user-selected criteria. The app will run in the browser and feature dynamically updated HTML and CSS powered by Javascript. It also features a clean and polished user responsive interface. 
 
-In this code, the user is asked to choose, via prompts, the following criteria:
+## User Story
 
-1. Length (choose between 8 and 128)
-2. Uppercase letters
-3. Lowercase letters
-4. Numbers
-5. Special Characters
+```
 
-The password that generates will depend on the answers from the prompts; however, the password will at least have
-one character type (lowercase letters). As a bonus, my code contains a function (at the bottom & commented out) 
-that generates a random password with all the previously listed criteria. This function does not have prompts and 
-will be between 8 and 128 characters.  
+AS A employee with access to sensitive data
 
-The following is a picture of the completed application:
+I WANT to randomly generate a password that meets certain criteria
+
+SO THAT I can create a strong password that provides greater security
+
+```
+
+## Table of Contents
+
+* [Installation](#installation)
+
+* [Usage](#usage)
+
+* [License](#license)
+
+* [Contributing](#contributing)
+
+* [Tests](#tests)
+
+* [Questions](#questions)
+
+## Installation
+
+To install necessary dependencies, run the following command:
+
+```
+
+No dependencies needed
+
+```
+
+## Usage
+
+This app used HTML, CSS, and Javascript
+
+## License
+
+This project is licensed under the MIT license.
+
+## Contributing
+
+Contributions are welcome. 
+
+## Tests 
+
+To run tests, run the following command:
+
+```
+
+npm test
+
+```
+
+## Questions
